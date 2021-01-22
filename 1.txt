@@ -1,0 +1,1 @@
+#ctrl shift f12, ctrl q, shift f1
